@@ -27,3 +27,7 @@
 .bold{
     font-weight: bold;
 }
+
+.card--p{
+    margin-block-end: 0;
+}
