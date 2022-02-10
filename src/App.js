@@ -21,8 +21,9 @@ function App() {
     <div className="App">
       <Navbar/>
       <Hero/>
-      {cards}
-      
+      <section className='cards'>
+        {cards}
+      </section>
     </div>
   );
 }

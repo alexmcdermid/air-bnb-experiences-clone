@@ -22,3 +22,10 @@
     transform: rotate(360deg);
   }
 }
+
+.cards {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
