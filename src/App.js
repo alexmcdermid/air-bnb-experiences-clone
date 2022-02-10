@@ -15,6 +15,7 @@ function App() {
         country={card.location}
         bio={card.title}
         price={card.price}
+        openSpots={card.openSpots}
       />
     )
   });
