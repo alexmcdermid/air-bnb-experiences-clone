@@ -8,7 +8,14 @@ function App() {
     <div className="App">
       <Navbar/>
       <Hero/>
-      <Card/>
+      <Card 
+      img="./images/katie-zaferes.png"
+      rating="5.0"
+      ratings="6"
+      country="USA"
+      bio="Life lessons with Katie Zaferes"
+      rate="136"
+      />
     </div>
   );
 }
