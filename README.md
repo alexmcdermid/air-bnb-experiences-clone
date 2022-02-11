@@ -1,3 +1,9 @@
+Some practice for interviews
+
+<img src="./src/images/Capture.PNG"/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
